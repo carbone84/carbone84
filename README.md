@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently playing with Brython. 
 - 🌱 I’m currently learning python 🐍, security 🔒, and web development. 
-- 🐱‍💻 I recently built a todo app with Brython. Here: https://bryancarbone.com/todo/
+- 💻 I recently built a todo app with Brython. You can find it [here](https://bryancarbone.com/todo/) (the initial load is a bit slow 🤷)
 <!--
 **carbone84/carbone84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
