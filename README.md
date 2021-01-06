@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently playing with Brython. 
+- 🌱 I’m currently learning python 🐍, security 🔒, and web development. 
+
 <!--
 **carbone84/carbone84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
