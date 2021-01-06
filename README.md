@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Bryan 🤓
 
 - 🔭 I’m currently playing with Brython. 
 - 🌱 I’m currently learning python 🐍, security 🔒, and web development. 
-
+- 🐱‍💻 I recently built a todo app with Brython. Here: https://bryancarbone.com/todo/
 <!--
 **carbone84/carbone84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
